@@ -8,6 +8,6 @@ python index.py
 </h4>
 <hr>
 <h3>Requirements
-Python
+Python<br><br>
 Git
 </h3>
